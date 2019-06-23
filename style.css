@@ -19,6 +19,9 @@ body {
   margin: 0 auto 0 auto;
  text-align:left;}
 
+a:link {
+	text-decoration: none;
+  }
 
 html, body {
 text-align: center;
